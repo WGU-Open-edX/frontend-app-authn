@@ -1,6 +1,6 @@
 {
   "name": "@openedx/frontend-app-authn",
-  "version": "1.0.0-alpha.4",
+  "version": "1.0.0-alpha.12",
   "description": "Frontend authentication",
   "repository": {
     "type": "git",
@@ -67,8 +67,8 @@
     "react-test-renderer": "^18.3.1"
   },
   "peerDependencies": {
-    "@openedx/frontend-base": "^1.0.0-alpha.6",
-    "@openedx/paragon": "^22",
+    "@openedx/frontend-base": "^1.0.0-alpha.12",
+    "@openedx/paragon": "^23",
     "react": "^18",
     "react-dom": "^18",
     "react-redux": "^8",
