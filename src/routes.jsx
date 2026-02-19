@@ -14,6 +14,7 @@ const routes = [
   {
     id: 'org.openedx.frontend.route.authn.main',
     Component: Main,
+    path: '/authn',
     children: [
       {
         path: 'register-embedded',
